@@ -3,8 +3,9 @@ h1 {
     color: green;
 }
 body {
-    background-image: url(girl.jpg);
+    background-image: url(skull.jfif);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 0 -600px;
+    background-position: center;
+    height: 100vh;
 }
