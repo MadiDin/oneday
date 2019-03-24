@@ -2,3 +2,9 @@ h1 {
     font-size: 30px ;
     color: green;
 }
+body {
+    background-image: url(girl.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 -600px;
+}
